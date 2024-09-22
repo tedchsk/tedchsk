@@ -1,6 +1,6 @@
-## Hey there 👋, 
+## Hey there 👋, I'm Ted
 
-- 🔍 I'm a Machine Learning Engineer with experience building recommender systems, personalization solutions, and deploying ML models at scale.  
+- 🔍 I work on recommender systems, personalization solutions, and deploying ML models at scale.  
 - 💡 Working with LLMs on RAG and In-context Learning (ICL) @ Crossing Minds.  
 - 🇨🇦 Currently based in Canada.  
 - 🎓 I hold a Master's degree in Applied Computing from the University of Toronto.  
