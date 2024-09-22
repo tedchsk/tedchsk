@@ -1,11 +1,11 @@
 ## Hey there 👋, 
 
-🔍 I'm a Machine Learning Engineer with hands-on experience building recommender systems, personalization solutions, and deploying ML models at scale for millions of daily users.  
-💡 Working with LLMs on RAG and In-context Learning (ICL) @ Crossing Minds.  
-🇨🇦 Currently based in Canada.  
-🎓 I hold a Master's degree in Applied Computing from the University of Toronto.  
-👨‍💻 Currently learning Stable Diffusion, Flux, and LoRA fine-tuning.  
-📫 How to reach me: teerapat.ted@gmail.com  
+- 🔍 I'm a Machine Learning Engineer with experience building recommender systems, personalization solutions, and deploying ML models at scale.  
+- 💡 Working with LLMs on RAG and In-context Learning (ICL) @ Crossing Minds.  
+- 🇨🇦 Currently based in Canada.  
+- 🎓 I hold a Master's degree in Applied Computing from the University of Toronto.  
+- 👨‍💻 Currently learning Stable Diffusion, Flux, and LoRA fine-tuning.  
+- 📫 How to reach me: teerapat.ted@gmail.com  
 
 
 <!--
