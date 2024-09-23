@@ -11,7 +11,7 @@
 <img width="700" alt="Screenshot 2024-09-22 at 12 11 04 PM" src="https://github.com/user-attachments/assets/4cd4c56d-725e-4510-bd2b-1b84917f6641">
 </div>  
 <p align="center">
-(no code version from https://fal.ai/)
+(check out my blog <a href="https://medium.com/@teerapat.ted/65f66622cacd" target="_blank">here</a>)
 </p>
 
 <!--
