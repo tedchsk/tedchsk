@@ -1,7 +1,6 @@
 ## Hey there 👋, I'm Ted
 
-- 🔍 I work on recommender systems, personalization solutions, and deploying ML models at scale.  
-- 💡 Working with LLMs on RAG and In-context Learning (ICL) @ Crossing Minds.  
+- 🔍 I work on LLM, recommender systems, personalization solutions, and deploying ML models at scale.  
 - 🇨🇦 Currently based in Canada.  
 - 🎓 I hold a Master's degree in Applied Computing from the University of Toronto.  
 - 📫 How to reach me: teerapat.ted@gmail.com
